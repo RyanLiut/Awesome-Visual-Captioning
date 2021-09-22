@@ -65,6 +65,10 @@
 - Semantic Grouping Network for Video Captioning. [[paper]](https://arxiv.org/pdf/2102.00831.pdf) [[code]](https://github.com/hobincar/SGN)    
 - Augmented Partial Mutual Learning with Frame Masking for Video Captioning. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-9714.LinK.pdf)  
 
+### WACV-2021
+**Video Captioning**
+- Improving Video Captioning with Temporal Composition of a Visual-Syntactic Embedding. [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Perez-Martin_Improving_Video_Captioning_With_Temporal_Composition_of_a_Visual-Syntactic_Embedding_WACV_2021_paper.pdf) [[code]](https://github.com/jssprz/visual_syntactic_embedding_video_captioning) 
+
 ### ACMMM-2020
 **Image Captioning**
 - Structural Semantic Adversarial Active Learning for Image Captioning. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413885)  
